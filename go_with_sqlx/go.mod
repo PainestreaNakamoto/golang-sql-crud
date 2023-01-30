@@ -1,4 +1,4 @@
-module godb
+module godbx
 
 go 1.19
 
